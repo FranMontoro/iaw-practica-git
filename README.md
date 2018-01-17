@@ -23,7 +23,7 @@ para una imagen, entre corchetes para descripcion
 
 ![hola](https://kanbanize.com/blog/wp-content/uploads/2014/11/GitHub.jpg)
 
-##Esto es otra seccion
+## Esto es otra seccion
 
 otro cambio
 
