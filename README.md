@@ -26,3 +26,7 @@ para una imagen, entre corchetes para descripcion
 ##Esto es otra seccion
 
 otro cambio
+
+## otra nueva seccion
+
+otro cambio mas, para aprender sobre git
